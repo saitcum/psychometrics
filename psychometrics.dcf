@@ -1,0 +1,13 @@
+name: psychometrics
+title: psychometrics
+username:
+account: saitcum
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6665157
+bundleId: 6113482
+url: https://saitcum.shinyapps.io/psychometrics/
+when: 1658267958.22319
+lastSyncTime: 1658267958.22321
+asMultiple: FALSE
+asStatic: FALSE
